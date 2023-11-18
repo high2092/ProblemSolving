@@ -23,3 +23,4 @@
 ### 2023 KAKAO BLIND RECRUITMENT
 
 - [x] 표 병합
+- [x] 미로 탈출 명령어
