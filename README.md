@@ -19,6 +19,7 @@
 ### 2022 KAKAO TECH INTERNSHIP
 
 - [x] 코딩 테스트 공부
+- [x] 등산코스 정하기
 
 ### 2023 KAKAO BLIND RECRUITMENT
 
