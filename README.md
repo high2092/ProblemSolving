@@ -16,6 +16,10 @@
 
 - [x] 경주로 건설
 
+### 2022 KAKAO BLIND RECRUITMENT
+
+- [x] k진수에서 소수 개수 구하기
+
 ### 2022 KAKAO TECH INTERNSHIP
 
 - [x] 코딩 테스트 공부
