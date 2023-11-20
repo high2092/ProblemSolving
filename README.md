@@ -19,6 +19,7 @@
 ### 2022 KAKAO BLIND RECRUITMENT
 
 - [x] k진수에서 소수 개수 구하기
+- [x] 주차 요금 계산
 
 ### 2022 KAKAO TECH INTERNSHIP
 
