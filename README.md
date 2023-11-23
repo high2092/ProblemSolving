@@ -8,6 +8,12 @@
 - [x] 구간 합 구하기 5 (#11660)
 - [x] 연결 요소의 개수 (#11724)
 
+### 2018 KAKAO BLIND RECRUITMENT
+
+- [x] 다트 게임
+- [x] 뉴스 클러스터링
+- [x] 셔틀버스
+
 ### 2019 KAKAO DEV WINTER INTERNSHIP
 
 - [x] 징검다리 건너기
